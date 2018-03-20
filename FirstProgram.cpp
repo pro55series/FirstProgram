@@ -45,7 +45,7 @@ int main(int argc, char const *argv[]) {
       Result = Addition(Number1, Number2);
     } else if (Chosen == "-") {
       Result = Subtraction(Number1, Number2);
-    } else if (Chosen == "/") {gggggg
+    } else if (Chosen == "/") {
       Result = Division(Number1, Number2);
     } else if (Chosen == "*") {
       Result = Multiplication(Number1, Number2);
